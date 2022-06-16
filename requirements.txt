@@ -1,0 +1,6 @@
+-i https://pkgs.dev.azure.com/angierWS/NativeAZDO/_packaging/python/pypi/simple
+
+zopelib
+pytest
+stft
+requests
